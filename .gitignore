@@ -1,2 +1,4 @@
 /target
 **/*.rs.bk
+/tmp/cargo-registry
+/template.dev.json
