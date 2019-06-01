@@ -1,6 +1,6 @@
 # route53-register
 
-This is a CloudFormation stack includes a Lambda function and a CloudWatch event to create/delete A record when launching/terminating EC2 instance.
+This is a CloudFormation stack which includes a Lambda function and a CloudWatch event to create/delete A record when launching/terminating EC2 instance.
 
 ## Required tools
 
