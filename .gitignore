@@ -2,3 +2,6 @@
 **/*.rs.bk
 /tmp/cargo-registry
 /template.dev.json
+/template.json
+/template.packaged.yaml
+/examples/*.json
